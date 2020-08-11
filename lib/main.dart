@@ -38,62 +38,6 @@ class _QuizAppState extends State<QuizApp> {
         {'answer': 'Rabbit', 'score': 6},
       ],
     },
-    {
-      'questionText': 'What\'s your favourite color?',
-      'answers': [
-        {'answer': 'Red', 'score': 9},
-        {'answer': 'Blue', 'score': 7},
-        {'answer': 'Green', 'score': 3},
-      ],
-    },
-    {
-      'questionText': 'What\'s your favourite food?',
-      'answers': [
-        {'answer': 'Burger', 'score': 3},
-        {'answer': 'Pizza', 'score': 6},
-        {'answer': 'Lasagna', 'score': 9},
-      ],
-    },
-    {
-      'questionText': 'What\'s your favourite animal?',
-      'answers': [
-        {'answer': 'Panda', 'score': 9},
-        {'answer': 'Dog', 'score': 3},
-        {'answer': 'Rabbit', 'score': 6},
-      ],
-    },
-    {
-      'questionText': 'What\'s your favourite color?',
-      'answers': [
-        {'answer': 'Red', 'score': 9},
-        {'answer': 'Blue', 'score': 7},
-        {'answer': 'Green', 'score': 3},
-      ],
-    },
-    {
-      'questionText': 'What\'s your favourite food?',
-      'answers': [
-        {'answer': 'Burger', 'score': 3},
-        {'answer': 'Pizza', 'score': 6},
-        {'answer': 'Lasagna', 'score': 9},
-      ],
-    },
-    {
-      'questionText': 'What\'s your favourite animal?',
-      'answers': [
-        {'answer': 'Panda', 'score': 9},
-        {'answer': 'Dog', 'score': 3},
-        {'answer': 'Rabbit', 'score': 6},
-      ],
-    },
-    {
-      'questionText': 'What\'s your favourite animal?',
-      'answers': [
-        {'answer': 'Panda', 'score': 9},
-        {'answer': 'Dog', 'score': 3},
-        {'answer': 'Rabbit', 'score': 6},
-      ],
-    },
   ];
 
   var _quesIndex = 0;
